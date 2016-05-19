@@ -3,6 +3,7 @@
  **********************************************************************************************/
 /** Map relative paths to URLs. */
 const map: any = {
+  'marked': 'vendor/marked/marked.min.js'
 };
 
 /** User packages configuration. */
